@@ -1,2 +1,2 @@
-# C-learning
+# CPP-learning
 some codes typed while learning
