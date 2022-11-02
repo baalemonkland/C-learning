@@ -14,7 +14,7 @@ int main()
 	printf("plz input the number of fishes\n");
 	scanf("%d", &n);
 	int fish[101], a[11];
-	for (int i = 0; i < n-1; i++)
+	for (int i = 0; i < n; i++)
 	{
 		scanf("%d", &fish[i]);
 	}
